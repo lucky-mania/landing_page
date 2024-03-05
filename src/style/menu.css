@@ -55,16 +55,16 @@
 }
 
 @media screen and (max-width:1170px){
-    #dishes{
+    #dishes {
         flex-wrap: wrap;
         justify-content: center;
-
     }
 
-    .dish{
-        width: calc(50% -12px);
+    .dish {
+        width: calc(50% - 12px);
     }
 }
+
 @media screen and (max-width:600px){
     .dish{
         width:100% 

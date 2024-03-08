@@ -25,7 +25,10 @@ section{
     cursor: pointer;
     transition: background-color 3s ease;
 }
-.btn-default:hover{
+#Aqui{
+    text-decoration: none;
+}
+#btn-default:hover{
     background-color: #f8d477;
 }
 .social-media-buttons{

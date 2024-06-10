@@ -47,7 +47,7 @@
             z-index: 2;
         }
         #banne img{
-            height: 90%;
+            height: 75%;
             width: fit-content;
             object-fit: cover;
         }
